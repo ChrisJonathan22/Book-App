@@ -1,0 +1,28 @@
+<div id="title-holder">
+  <h1>Fill in the details</h1>
+</div>
+<section>
+  <form id="form-holder" method="POST" action="http://localhost:3000/upload" enctype="multipart/form-data">
+    <label for="username" id="usernameLabel">Please enter your name</label>
+    <br/>
+    <input type="text" name="username" placeholder="Please enter your name..." id="username" required>
+    <br/>
+    <br/>
+    <label for="bookTitle" id="bookTitleLabel">Enter the names of the books  <br/> you own separated by a comma (",").</label>
+    <br/>
+    <input type="text" name="title" placeholder="Please enter a list of Book Titles..." id="bookTitle" required>
+    <br/>
+    <br/> 
+    <label for="bookImg" id="bookImgLabel">Book Image</label>
+    <br/>
+    <input type="file" accept="image/*" name="image" id="bookImg" required multiple>
+    <br/>
+    <br/>
+    <label for="wishlistbooks" id=wishlistLabel>Enter the names of the books <br/> you'd like to own separated by a comma (",").</label>
+    <br/>
+    <input type="text" name="wishlist" id="wishlist" placeholder="Please enter a list of Book Titles..." required>
+    <br/>
+    <br/>
+    <input type="submit" value="Submit" id="button">
+  </form>
+</section>

@@ -1,27 +1,22 @@
-# BookApp
+BookApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
+Basic book database.
 
-## Development server
+You can add books along with their respective images if available.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+You can add books that you'd like to buy.
 
-## Code scaffolding
+You can also view your wishlist once you've submitted the information.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+You can search for users by their username.
 
-## Build
+You can also delete users by searching for their username
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+Instruction to run the App:
 
-## Running unit tests
+You need to have the Angular Cli and Node running on your device.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+The front end files are found within this path Client/Views/src, once within the src folder in your terminal type in ng serve --o to launch it on your browser.
 
-## Running end-to-end tests
+The back end files are found within this path Server/ and once in there using another terminal instance type in node server or if you have nodemon you can type in nodemon server to run the server. Nodemon is a tool which reloads files after every change has been saved.
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).

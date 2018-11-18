@@ -1,0 +1,36 @@
+#title-holder {
+    padding-top: 10px;
+}
+
+#title-holder h1 {
+    text-align: center;
+    color: brown;
+    padding-bottom: 70px;
+}
+
+section {
+    width: 15%;
+    margin: 0 auto;
+}
+
+#form-holder {
+    text-align: center;
+}
+
+#usernameSearch {
+    width: 135px;
+}
+
+#content-holder {
+    /* padding-top: 50px; */
+    text-align: center;
+}
+
+#notFound {
+    color: red;
+}
+
+#buttonHolder {
+    text-align: center;
+    padding-top: 10px;
+}

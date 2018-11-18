@@ -1,0 +1,17 @@
+#title-holder {
+    padding-top: 10px;
+}
+
+#title-holder h1 {
+    text-align: center;
+    color: brown;
+}
+
+section {
+    padding-top: 50px;
+    /* margin-left: 40%;
+    margin-right: 40%; */
+    margin: auto;
+    width: 27%;
+    height: 100px;
+}

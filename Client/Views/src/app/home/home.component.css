@@ -1,0 +1,15 @@
+#title-holder {
+    padding-top: 10px;
+}
+
+#title-holder h1 {
+    text-align: center;
+    color: brown;
+    padding-bottom: 70px;
+}
+
+#para {
+    /* width: 500px; */
+    /* margin: 0 auto; */
+    text-align: center;
+}
