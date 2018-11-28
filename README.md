@@ -2,15 +2,15 @@ BookApp
 
 Basic book database.
 
-You can add books along with their respective images if available.
+1) You can add books along with their respective images if available.
 
-You can add books that you'd like to buy.
+2) You can add books that you'd like to buy.
 
-You can also view your wishlist once you've submitted the information.
+3) You can also view your wishlist once you've submitted the information.
 
-You can search for users by their username.
+4) You can search for users by their username.
 
-You can also delete users by searching for their username
+5) You can also delete users by searching for their username.
 
 Instruction to run the App:
 
