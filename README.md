@@ -12,7 +12,7 @@ Basic book database.
 
 5) You can also delete users by searching for their username.
 
-Instruction to run the App:
+Instructions to run the App:
 
 You need to have the Angular Cli and Node running on your device.
 
