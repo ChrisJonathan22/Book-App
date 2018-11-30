@@ -28,4 +28,6 @@ The front end files are found within this path Client/Views/src, once within the
 
 The back end files are found within this path Server/ and once in there using another terminal instance type in node server or if you have nodemon you can type in nodemon server to run the server. Nodemon is a tool which reloads files after every change has been saved.
 
+I'm thinking about deploying it soon.
+
 Enjoy.
